@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6RjV8yL/banner-github.png" width="100%" alt="Banner" />
+<img src="github-header-banner.png" width="100%" alt="Banner" />
 
 <h1 align="center">Hey there 👋, I'm Albert Christian</h1>
 <h3 align="center">💻 Information Systems Student | Politeknik Caltex Riau</h3>
