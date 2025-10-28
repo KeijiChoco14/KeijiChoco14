@@ -1,8 +1,3 @@
-<!--
-  💫 GitHub Profile README for Albert Christian (KeijiChoco14)
-  Theme: Tokyonight
--->
-
 <img src="https://i.ibb.co/6RjV8yL/banner-github.png" width="100%" alt="Banner" />
 
 <h1 align="center">Hey there 👋, I'm Albert Christian</h1>
