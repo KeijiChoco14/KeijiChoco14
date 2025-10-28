@@ -3,7 +3,7 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Muhammad+Fiaz+and+Welcome+to+my+Profile!" alt="Hey, I'm Muhammad Fiaz and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Muhammad+Fiaz+and+Welcome+to+my+Profile!" alt="Hey, I'm Albert Christian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
@@ -14,7 +14,7 @@
 <p style="font-size: medium"><b>Profile Views</b></p>
 <img src="https://komarev.com/ghpvc/?username=muhammadfiaz" alt="GitHub profile views" />
 <br><br>
-<a href="https://github.com/muhammad-fiaz" target="_blank">
+<a href="https://github.com/KeijiChoco14" target="_blank">
   <img src="https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social" alt="Follow me on GitHub" />
 </a>
 <br>
