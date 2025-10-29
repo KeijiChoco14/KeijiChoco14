@@ -20,11 +20,8 @@
   <a href="mailto:albert23ti@mahasiswa.pcr.ac.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/keijichoco14" target="_blank">
+  <a href="https://www.instagram.com/__nybertx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank"> <!-- Tambahkan jika ada -->
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
@@ -71,7 +68,7 @@
 ---
 
 ### ✨ About Me
-- 🎓 Currently studying **Information Systems at Politeknik Caltex Riau** (Class of 2025 🚀)
+- 🎓 Currently studying **Information Systems at Politeknik Caltex Riau**
 - 💡 Passionate about **Web Development, UI/UX Design, Game Development, and AI/ML** – always tinkering with the latest tech!
 - 🚀 Love building **full-stack apps, interactive games, and sleek designs**. My motto: "Code is poetry in motion." 📝
 - 🎮 Hobbies: Coding marathons, gaming (especially indie titles), and binge-watching tech talks on YouTube.
