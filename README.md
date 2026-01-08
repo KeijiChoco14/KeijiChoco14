@@ -150,8 +150,19 @@ const albert = {
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKE (OPTIONAL - NEEDS SETUP) ================= -->
-<!--
+<!-- ================= WAKATIME STATS ================= -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 <div align="center">
 
 ## 🐍 Contribution Snake
@@ -163,7 +174,6 @@ const albert = {
 </picture>
 
 </div>
--->
 
 ---
 
@@ -200,17 +210,15 @@ const albert = {
 
 ---
 
-<!-- ================= RECENT ACTIVITY (OPTIONAL - NEEDS SETUP) ================= -->
-<!--
+<!-- ================= RECENT ACTIVITY ================= -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Recent Activity
 
-START_SECTION:activity
-END_SECTION:activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
--->
 
 ---
 
@@ -238,5 +246,3 @@ END_SECTION:activity
 <img src="https://visitcount.itsvg.in/api?id=KeijiChoco14&icon=5&color=10&style=for-the-badge"/>
 
 </div>
-
----
