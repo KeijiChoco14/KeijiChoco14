@@ -127,7 +127,7 @@ const albert = {
 
 ## <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="35"> Now Playing on Spotify
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=312elpmtp6f2otwgjelujfmxyn5i&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=312elpmtp6f2otwgjelujfmxyn5i&cover_image=true&theme=radical&show_offline=false&background_color=0d1117&interchange=true&bar_color=ff006e&bar_color_cover=false"/>
 
 </div>
 
