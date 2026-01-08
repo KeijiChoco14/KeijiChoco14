@@ -1,25 +1,21 @@
-<!-- ================= ANIMATED HEADER ================= -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Albert%20Christian&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Game%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Albert%20Christian&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Game%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20"/>
 </div>
 
-<!-- ================= TYPING ANIMATION ================= -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Stuff!+%E2%9C%A8"/>
-</div>
-
----
-
-<!-- ================= ANIMATED PROFILE VIEWS ================= -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=KeijiChoco14&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true"/>
-<img src="https://img.shields.io/github/followers/KeijiChoco14?label=Followers&style=for-the-badge&color=blue&logo=github"/>
-<img src="https://img.shields.io/github/stars/KeijiChoco14?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Stuff!+%E2%9C%A8"/>
 </div>
 
 ---
 
-<!-- ================= ABOUT ME WITH ANIMATION ================= -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KeijiChoco14&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true"/>
+  <img src="https://img.shields.io/github/followers/KeijiChoco14?label=Followers&style=for-the-badge&color=blue&logo=github"/>
+  <img src="https://img.shields.io/github/stars/KeijiChoco14?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github"/>
+</div>
+
+---
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
@@ -89,10 +85,8 @@ const albert = {
 <!-- ================= GITHUB STATS WITH ANIMATIONS ================= -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeijiChoco14&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=KeijiChoco14&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8"/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeijiChoco14&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8"/> <img width="49%" src="https://streak-stats.demolab.com?user=KeijiChoco14&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8"/>
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeijiChoco14&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8"/>
 
@@ -103,8 +97,7 @@ const albert = {
 <!-- ================= ACTIVITY GRAPH ================= -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Activity Graph
-
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Activity Graph
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeijiChoco14&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb"/>
 
 </div>
@@ -114,9 +107,8 @@ const albert = {
 <!-- ================= TROPHIES ================= -->
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=KeijiChoco14&theme=radical&no-frame=true&no-bg=false&row=2&column=7&margin-w=15&margin-h=15"/>
+🏆 GitHub Trophies
+<img width="100%" src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DKeijiChoco14%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dfalse%26row%3D1%26column%3D7"/>
 
 </div>
 
@@ -125,9 +117,8 @@ const albert = {
 <!-- ================= SPOTIFY ================= -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="35"> Now Playing on Spotify
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=312elpmtp6f2otwgjelujfmxyn5i&cover_image=true&theme=radical&show_offline=false&background_color=0d1117&interchange=true&bar_color=ff006e&bar_color_cover=false"/>
+<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="35"> Now Playing on Spotify
+<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3D312elpmtp6f2otwgjelujfmxyn5i%26cover_image%3Dtrue%26theme%3Dradical%26show_offline%3Dtrue%26background_color%3D0d1117%26interchange%3Dtrue%26bar_color%3Dff006e%26bar_color_cover%3Dfalse"/>
 
 </div>
 
@@ -165,13 +156,8 @@ const albert = {
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg">
-</picture>
+🐍 Contribution Snake
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg"> </picture>
 
 </div>
 
@@ -202,8 +188,7 @@ const albert = {
 <!-- ================= CONTRIBUTION STATS ================= -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> Top Contributions
-
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> Top Contributions
 <img src="https://github-contributor-stats.vercel.app/api?username=KeijiChoco14&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8"/>
 
 </div>
