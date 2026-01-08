@@ -1,0 +1,25 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Jalan setiap tengah malam
+  workflow_dispatch: # Bisa dijalankan manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Update WakaTime (Weekly Coding Stats)
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+
+      # 2. Update Recent Activity
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
