@@ -92,7 +92,7 @@ const albert = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeijiChoco14&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=KeijiChoco14&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=KeijiChoco14&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8"/>
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeijiChoco14&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8"/>
 
@@ -111,25 +111,10 @@ const albert = {
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
 <!-- ================= TROPHIES ================= -->
 <div align="center">
 
-## <img src="https://media.tenor.com/images/f9c0cf4f3f2c4c6c8f9c0cf4f3f2c4c6/tenor.gif" width="35" height="35"> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=KeijiChoco14&theme=radical&no-frame=true&no-bg=false&row=2&column=7&margin-w=15&margin-h=15"/>
 
@@ -148,14 +133,46 @@ const albert = {
 
 ---
 
-<!-- ================= CODING STATS ================= -->
+<!-- ================= PROFILE SUMMARY CARDS ================= -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Weekly Coding Stats
+## 📊 Profile Summary
 
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KeijiChoco14&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&layout=compact"/>
-<!--END_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeijiChoco14&theme=radical"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeijiChoco14&theme=radical"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeijiChoco14&theme=radical"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeijiChoco14&theme=radical"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeijiChoco14&theme=radical&utcOffset=7"/>
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE (OPTIONAL - NEEDS SETUP) ================= -->
+<!--
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg">
+</picture>
+
+</div>
+-->
+
+---
+
+<!-- ================= RANDOM MEME ================= -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Random Dev Meme
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Random Dev Meme"/>
 
 </div>
 
@@ -164,9 +181,9 @@ const albert = {
 <!-- ================= QUOTE ================= -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Random Dev Quote
+## ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad."/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
 
 </div>
 
@@ -183,27 +200,17 @@ const albert = {
 
 ---
 
-<!-- ================= METRICS ================= -->
-<div align="center">
-
-## 📈 Detailed Metrics
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeijiChoco14&theme=radical"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeijiChoco14&theme=radical&utcOffset=7"/>
-
-</div>
-
----
-
-<!-- ================= RECENT ACTIVITY ================= -->
+<!-- ================= RECENT ACTIVITY (OPTIONAL - NEEDS SETUP) ================= -->
+<!--
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+START_SECTION:activity
+END_SECTION:activity
 
 </div>
+-->
 
 ---
 
@@ -214,8 +221,10 @@ const albert = {
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 ---
@@ -229,3 +238,5 @@ const albert = {
 <img src="https://visitcount.itsvg.in/api?id=KeijiChoco14&icon=5&color=10&style=for-the-badge"/>
 
 </div>
+
+---
