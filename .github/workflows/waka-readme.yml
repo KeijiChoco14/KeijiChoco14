@@ -22,7 +22,7 @@ jobs:
       - name: Update WakaTime Stats
         uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.waka_10e94dd7-2f5f-4c28-8280-8e4ae0eff563 }}
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_7_days
