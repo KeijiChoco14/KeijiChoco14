@@ -20,47 +20,39 @@
 
 ---
 
+```markdown
 # 🧠 Developer Profile
 
-```javascript
-const albert = {
-    location: "Pekanbaru, Indonesia",
-    role: "Full Stack Developer",
+<table>
+<tr>
+<td width="50%">
 
-    languages: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Java",
-        "Kotlin",
-        "C#"
-    ],
+### 👨‍💻 About Me
 
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "Mobile Apps",
-        "Game Development"
-    ],
+- 🎓 Informatics Engineering Student
+- 💻 Full Stack Developer
+- 🤖 Interested in AI & Machine Learning
+- 🎮 Game Developer using Unity
+- 🌱 Currently learning Backend Architecture
+- 🚀 Building intelligent digital products
 
-    currentlyWorkingOn: [
-        "AI Job Recommendation System",
-        "YOLOv8 PPE Detection",
-        "Inventory Management System",
-        "Unity 3D Games"
-    ],
+</td>
 
-    currentlyLearning: [
-        "Deep Learning",
-        "Backend Architecture",
-        "Mobile Development"
-    ],
+<td width="50%">
 
-    lifePhilosophy:
-        "Build technology that solves real problems."
-};
+### ⚡ Current Focus
+
+- AI Job Recommendation System
+- YOLOv8 PPE Detection
+- Inventory Management System
+- Unity 3D Games
+- Mobile App Development
+
+</td>
+</tr>
+</table>
 ```
+
 
 ---
 
