@@ -1,233 +1,224 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Albert%20Christian&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Game%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20"/>
-</div>
+# 👋 Hello, I'm Albert Christian
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Stuff!+%E2%9C%A8"/>
-</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e40af,100:3b82f6&text=Albert%20Christian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer%20%7C%20Game%20Developer&descAlignY=58&descSize=20"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KeijiChoco14&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true"/>
-  <img src="https://img.shields.io/github/followers/KeijiChoco14?label=Followers&style=for-the-badge&color=blue&logo=github"/>
-  <img src="https://img.shields.io/github/stars/KeijiChoco14?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Unity+Game+Developer;Always+Learning+New+Things"/>
+
 </div>
 
 ---
 
-<div align="center">
+# 🚀 About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+🎓 Informatics Engineering Student at **Politeknik Caltex Riau**
+💻 Passionate about **AI Development**, **Web Development**, and **Game Development**
+⚡ Love building intelligent systems and impactful digital products
+🌱 Currently learning **Machine Learning**, **System Design**, and **Mobile Development**
+🔥 Focused on becoming a professional software engineer
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+---
 
-</div>
+# 🧠 Developer Profile
 
 ```javascript
 const albert = {
-    pronouns: "He" | "Him",
-    location: "Pekanbaru, Riau, Indonesia 🇮🇩",
-    education: "Politeknik Caltex Riau",
-    code: ["C#", "JavaScript", "Java", "Python", "TypeScript", "Kotlin"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Next.js"],
-            styling: ["TailwindCSS", "Bootstrap"]
-        },
-        backEnd: {
-            frameworks: ["Node.js", "Laravel", "Express"],
-        },
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        gamedev: ["Unity", "Godot"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
-    },
-    currentFocus: "Building scalable web applications & game development",
-    funFact: "I debug with console.log() 🤷‍♂️"
+    location: "Pekanbaru, Indonesia",
+    role: "Full Stack Developer",
+
+    languages: [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "Kotlin",
+        "C#"
+    ],
+
+    interests: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Web Development",
+        "Mobile Apps",
+        "Game Development"
+    ],
+
+    currentlyWorkingOn: [
+        "AI Job Recommendation System",
+        "YOLOv8 PPE Detection",
+        "Inventory Management System",
+        "Unity 3D Games"
+    ],
+
+    currentlyLearning: [
+        "Deep Learning",
+        "Backend Architecture",
+        "Mobile Development"
+    ],
+
+    lifePhilosophy:
+        "Build technology that solves real problems."
 };
 ```
 
 ---
 
-<!-- ================= SOCIALS WITH HOVER EFFECT ================= -->
+# ⚒️ Tech Stack
+
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,cs,react,nextjs,nodejs,express,laravel,mysql,mongodb,postgres,docker,unity,git,github,tailwind,bootstrap,figma,vscode,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Job Search Indonesia
+
+AI-powered job search application using TF-IDF recommendation system to help users discover relevant job opportunities efficiently.
+
+### ⚒️ Tech Stack
+
+React Native • Python • Flask • Machine Learning • TF-IDF
+
+🔗 Repository
+https://github.com/KeijiChoco14/AplikasiCariKerjaIndonesia
+
+---
+
+## 🗺️ GIS Waste Mapping System
+
+Geographic Information System for waste point mapping and regional zoning in Pekanbaru.
+
+### ⚒️ Tech Stack
+
+TypeScript • Leaflet • PostgreSQL • GIS
+
+🔗 Repository
+https://github.com/KeijiChoco14/WebsiteGisPekanbaru
+
+---
+
+## ☕ GrindLearn
+
+Barista training management platform with interactive learning modules and training management system.
+
+### ⚒️ Tech Stack
+
+React • Node.js • MongoDB
+
+🔗 Repository
+https://github.com/KeijiChoco14/FFAC_Grind-Learn
+
+---
+
+## 🎮 Hospital Hero : Misi Sehati
+
+3D educational game developed using Unity to deliver interactive healthcare-themed gameplay.
+
+### ⚒️ Tech Stack
+
+Unity • C#
+
+---
+
+## 🎮 Death of Jesus
+
+2D story-based game developed using RPG Maker MV.
+
+### ⚒️ Tech Stack
+
+RPG Maker MV
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeijiChoco14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=KeijiChoco14&theme=tokyonight&hide_border=true"/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeijiChoco14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeijiChoco14&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=KeijiChoco14&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/albert-christiann">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:albert23ti@mahasiswa.pcr.ac.id">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 <a href="https://instagram.com/__nybertx">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20"/>
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-<a href="https://linkedin.com/in/albert-christiann">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://pinterest.com/albert23ti">
-  <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
-</a>
-<a href="mailto:albert23ti@mahasiswa.pcr.ac.id">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://github.com/KeijiChoco14">
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ================= TECH STACK WITH ICONS ================= -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cs,js,java,python,ts,kotlin,nextjs,react,nodejs,laravel,mysql,unity,git,github,vscode,tailwind,bootstrap,docker,figma,postman&theme=dark&perline=10"/>
-
-</div>
-
----
-
-<!-- ================= GITHUB STATS WITH ANIMATIONS ================= -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeijiChoco14&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8"/> <img width="49%" src="https://streak-stats.demolab.com?user=KeijiChoco14&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeijiChoco14&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8"/>
-
-</div>
-
----
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeijiChoco14&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb"/>
-
-</div>
-
----
-
-<!-- ================= TROPHIES ================= -->
-<div align="center">
-
-🏆 GitHub Trophies
-<img width="100%" src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DKeijiChoco14%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dfalse%26row%3D1%26column%3D7"/>
-
-</div>
-
----
-
-<!-- ================= SPOTIFY ================= -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="35"> Now Playing on Spotify
-<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3D312elpmtp6f2otwgjelujfmxyn5i%26cover_image%3Dtrue%26theme%3Dradical%26show_offline%3Dtrue%26background_color%3D0d1117%26interchange%3Dtrue%26bar_color%3Dff006e%26bar_color_cover%3Dfalse"/>
-
-</div>
-
----
-
-<!-- ================= PROFILE SUMMARY CARDS ================= -->
-<div align="center">
-
-## 📊 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeijiChoco14&theme=radical"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeijiChoco14&theme=radical"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeijiChoco14&theme=radical"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeijiChoco14&theme=radical"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeijiChoco14&theme=radical&utcOffset=7"/>
-
-</div>
-
----
-
-<!-- ================= WAKATIME STATS ================= -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-<div align="center">
-
-🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-snake.svg"> </picture>
-
-</div>
-
----
-
-<!-- ================= RANDOM MEME ================= -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Random Dev Meme"/>
-
-</div>
-
----
-
-<!-- ================= QUOTE ================= -->
-<div align="center">
-
-## ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION STATS ================= -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> Top Contributions
-<img src="https://github-contributor-stats.vercel.app/api?username=KeijiChoco14&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8"/>
-
-</div>
-
----
-
-<!-- ================= RECENT ACTIVITY ================= -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
-<!-- ================= FOOTER WITH ANIMATION ================= -->
-<div align="center">
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Show Some ❤️ by Starring Some Repositories!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
-
-</div>
+# 💭 Quote
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+### “Great software is built from consistency, curiosity, and discipline.”
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 *"Code is poetry written in logic"*
-
-**Built with** ❤️ **and lots of** ☕
-
-<img src="https://visitcount.itsvg.in/api?id=KeijiChoco14&icon=5&color=10&style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e40af,100:3b82f6"/>
 
 </div>
