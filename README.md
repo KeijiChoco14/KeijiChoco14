@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Albert Christian
+# 👋 Hi, I'm Albert Christian
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e40af,100:3b82f6&text=Albert%20Christian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer%20%7C%20Game%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:2563eb&text=Albert%20Christian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Developer%20•%20Game%20Developer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Unity+Game+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Intelligent+Digital+Products;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Unity+Game+Developer"/>
 
 </div>
 
@@ -12,47 +12,43 @@
 
 # 🚀 About Me
 
-🎓 Informatics Engineering Student at **Politeknik Caltex Riau**
-💻 Passionate about **AI Development**, **Web Development**, and **Game Development**
-⚡ Love building intelligent systems and impactful digital products
-🌱 Currently learning **Machine Learning**, **System Design**, and **Mobile Development**
-🔥 Focused on becoming a professional software engineer
-
----
-
-```markdown
-# 🧠 Developer Profile
-
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 👨‍💻 About Me
+### 👨‍💻 Developer Overview
 
-- 🎓 Informatics Engineering Student
-- 💻 Full Stack Developer
-- 🤖 Interested in AI & Machine Learning
-- 🎮 Game Developer using Unity
-- 🌱 Currently learning Backend Architecture
-- 🚀 Building intelligent digital products
+* 🎓 Informatics Engineering Student at **Politeknik Caltex Riau**
+* 💻 Passionate about **Full Stack Development**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🎮 Building games with **Unity**
+* 🌱 Always learning and improving
+* ⚡ Interested in scalable systems & modern technologies
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
-### ⚡ Current Focus
-
-- AI Job Recommendation System
-- YOLOv8 PPE Detection
-- Inventory Management System
-- Unity 3D Games
-- Mobile App Development
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
 </table>
-```
 
+---
+
+# 🧠 Current Focus
+
+<div align="center">
+
+| 🚀 Building                  | 🌱 Learning          | 🎯 Interests            |
+| ---------------------------- | -------------------- | ----------------------- |
+| AI Job Recommendation System | Backend Architecture | Artificial Intelligence |
+| YOLOv8 PPE Detection         | Deep Learning        | Web Development         |
+| Inventory Management System  | System Design        | Mobile Apps             |
+| Unity Educational Games      | Mobile Development   | Game Development        |
+
+</div>
 
 ---
 
@@ -68,22 +64,28 @@
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🤖 AI Job Search Indonesia
 
-AI-powered job search application using TF-IDF recommendation system to help users discover relevant job opportunities efficiently.
+AI-powered job search application using TF-IDF recommendation system.
 
 ### ⚒️ Tech Stack
 
-React Native • Python • Flask • Machine Learning • TF-IDF
+React Native • Python • Flask • Machine Learning
 
 🔗 Repository
 https://github.com/KeijiChoco14/AplikasiCariKerjaIndonesia
 
----
+</td>
+
+<td width="50%">
 
 ## 🗺️ GIS Waste Mapping System
 
-Geographic Information System for waste point mapping and regional zoning in Pekanbaru.
+Geographic Information System for waste mapping and zoning in Pekanbaru.
 
 ### ⚒️ Tech Stack
 
@@ -92,11 +94,19 @@ TypeScript • Leaflet • PostgreSQL • GIS
 🔗 Repository
 https://github.com/KeijiChoco14/WebsiteGisPekanbaru
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## ☕ GrindLearn
 
-Barista training management platform with interactive learning modules and training management system.
+Barista training management platform with interactive learning modules.
 
 ### ⚒️ Tech Stack
 
@@ -105,25 +115,21 @@ React • Node.js • MongoDB
 🔗 Repository
 https://github.com/KeijiChoco14/FFAC_Grind-Learn
 
----
+</td>
+
+<td width="50%">
 
 ## 🎮 Hospital Hero : Misi Sehati
 
-3D educational game developed using Unity to deliver interactive healthcare-themed gameplay.
+3D educational game developed using Unity.
 
 ### ⚒️ Tech Stack
 
 Unity • C#
 
----
-
-## 🎮 Death of Jesus
-
-2D story-based game developed using RPG Maker MV.
-
-### ⚒️ Tech Stack
-
-RPG Maker MV
+</td>
+</tr>
+</table>
 
 ---
 
@@ -151,11 +157,11 @@ RPG Maker MV
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=KeijiChoco14&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KeijiChoco14&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -166,9 +172,8 @@ RPG Maker MV
 <div align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -199,18 +204,10 @@ RPG Maker MV
 
 ---
 
-# 💭 Quote
-
 <div align="center">
 
-### “Great software is built from consistency, curiosity, and discipline.”
+### 💭 “Consistency beats motivation.”
 
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e40af,100:3b82f6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e3a8a,100:2563eb"/>
 
 </div>
