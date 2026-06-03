@@ -157,23 +157,12 @@ Unity • C#
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KeijiChoco14&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KeijiChoco14/KeijiChoco14/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
